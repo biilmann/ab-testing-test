@@ -1,1 +1,7 @@
 @import "imports/reset.css";
+
+body {
+  background: #efefef;
+  color: #444;
+  padding: 2em;
+}
