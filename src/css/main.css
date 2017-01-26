@@ -1,7 +1,11 @@
 @import "imports/reset.css";
 
 body {
-  background: #efefef;
-  color: #444;
+  background: #fff;
+  color: #666;
   padding: 2em;
+}
+
+img {
+  max-width: 100%;
 }
